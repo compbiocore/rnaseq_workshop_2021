@@ -1,0 +1,9 @@
+repo: rnaseq_workshop_2021 
+site_name: DESeq Workshop 1 - Standard analyses for RNA-seq Data
+authors:
+  - name: Joselynn Wallace
+    github_user: jrwallace
+repo_url: https://github.com/compbiocore/rnaseq_workshop_2021
+site_description: "This workshop focuses on exploratory analysis of RNA-seq data."
+docs_url: https://compbiocore.github.io/deseq_1/
+type: workshop
