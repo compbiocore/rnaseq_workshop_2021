@@ -1,0 +1,28 @@
+site_name:        Computational Biology Core - Brown University
+site_author:      Joselynn Wallace
+repo_url:         https://github.com/compbiocore/rnaseq_workshop_2021
+site_description: DEseq Workshop 1
+site_url: https://compbiocore.github.io/ #this is the main site!
+google_analytics: ['UA-115983496-2', 'compbiocore.github.io'] 
+
+theme:
+  name: material
+  palette:
+    primary: 'blue grey'
+    accent: 'indigo'
+  logo: images/cbc-logo.svg
+
+extra_css:
+  - styles/dark_mode.css
+
+markdown_extensions:
+  - extra
+  - tables
+  - fenced_code
+  - admonition
+  - codehilite
+  - footnotes
+
+nav:
+  - Home: 'index.md'
+  - Notebooks: 'notebook.md'
