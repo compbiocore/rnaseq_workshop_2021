@@ -1,7 +1,7 @@
 # rnaseq_workshop_2021
 RNAseq workshop 2021
 
-# git clone or download workshop, change directories so that you are in the rnaseq_workshop_2021 folder. For example, to ssh clone the repository: 
+# git clone or download workshop, change directories so that you are in the `rnaseq_workshop_2021` folder. For example, to ssh clone the repository: 
 
 git clone git@github.com:compbiocore/rnaseq_workshop_2021.git 
 cd rnaseq_workshop_2021
