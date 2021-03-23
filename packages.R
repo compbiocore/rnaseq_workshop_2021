@@ -6,5 +6,7 @@
 
 #update.packages(repos='http://cran.us.r-project.org', ask=FALSE)
 
-install.packages(c("tidyverse","ggplot2", "pheatmap", "RColorBrewer", "PoiClaClu","patchwork", "tidyr", "GGally"), dependencies=TRUE, repos='http://cran.rstudio.com/')
-BiocManager::install(c("airway", "DESeq2", "vsn", "biomaRt","AnnotationHub", "SummarizedExperiment"), ask = FALSE)
+install.packages(c("remotes","rsvd","tidyverse","ggplot2", "pheatmap", "RColorBrewer", "PoiClaClu","patchwork", "tidyr", "GGally"), dependencies=TRUE, repos='http://cran.rstudio.com/')
+#library('remotes')
+#remotes::install_version(package = 'Seurat', version = package_version('3.2.1'))
+#BiocManager::install(c("airway", "DESeq2", "vsn", "biomaRt","AnnotationHub", "SummarizedExperiment"), ask = FALSE)
