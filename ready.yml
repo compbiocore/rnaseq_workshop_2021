@@ -1,5 +1,5 @@
 repo: rnaseq_workshop_2021 
-site_name: DESeq Workshop 1 - Standard analyses for RNA-seq Data
+site_name: "DESeq Workshop 1 - Exploratory data analyses for RNA-seq data"
 authors:
   - name: Joselynn Wallace
     github_user: jrwallace
