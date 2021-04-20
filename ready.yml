@@ -6,4 +6,4 @@ authors:
 repo_url: https://github.com/compbiocore/rnaseq_workshop_2021
 site_description: "This workshop focuses on exploratory analysis of RNA-seq data."
 docs_url: https://compbiocore.github.io/deseq_1/
-type: workshops
+type: workshop
